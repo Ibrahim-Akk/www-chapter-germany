@@ -44,6 +44,7 @@ vieles neues über security lernen und jede davon profitieren kann.
 <td><p><a href="https://doodle.com/poll/prvqqncgvgx65ym9">https://doodle.com/poll/prvqqncgvgx65ym9</a></p></td>
 <td><p><a href="https://www.owasp.org/index.php/File:Owasp_wireshark.pdf">PDF</a></p></td>
 </tr>
+    
 <tr class="even">
 <td><p><del>25.02.2019</del></p></td>
 <td><p><del>Fritzpatrick's Irish Pub</del></p></td>
@@ -70,38 +71,7 @@ vieles neues über security lernen und jede davon profitieren kann.
 <td><p><a href="https://www.owasp.org/index.php/File:Analysing_Networks_with_NMAP.pdf">PDF</a> <a href="https://www.owasp.org/index.php/File:Analysing%20Networks%20with%20NMAP%20with%20notes.pptx">PPTX</a></p></td>
 </tr>
     
-<tr class="even">
-<td><p></p></td>
-<td><p>Fritzpatrick's Irish Pub</p></td>
-<td><p>Stammtisch / Netzwerkabend</p></td>
-<td><p>Allgemeine Diskussion zum Thema Security / Netzwerken</p></td>
-<td><p>-</p></td>
-<td><p><a href="https://doodle.com/poll/dxkebgcmknvvedpn">https://doodle.com/poll/dxkebgcmknvvedpn</a></p></td>
-<td><p>-</p></td>
-</tr>
-    
-<tr class="odd">
-<td><div style="color:green">
-<p>Januar</p>
-</div></td>
-<td><div style="color:green">
-<p>To be anounced</p>
-</div></td>
-<td><div style="color:green">
-<p>Thema TBD</p>
-</div></td>
-<td><div style="color:green">
-<p></p>
-<p>Die Themengebiete sind:</p>
-</div></td>
-<td><div style="color:green">
-<p>_bka_</p>
-</div></td>
-<td><div style="color:green">
-<p><a href="https://www.meetup.com/OWASP-Germany-Stammtisch-Ruhrpott/events/263581050/">https://www.meetup.com/OWASP-Germany-Stammtisch-Ruhrpott/events/263581050/</a></p>
-</div></td>
-<td><p><a href="https://www.owasp.org/images/f/ff/WindowsBreakout-Nov2019.pdf">PDF</a></p></td>
-</tr>
+
 </tbody>
 </table>
 
