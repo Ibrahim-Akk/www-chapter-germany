@@ -44,10 +44,10 @@ vieles neues über security lernen und jede davon profitieren kann.
 </tr>
     
 <tr class="even">
-<td><p><del> 01 Februar 2022</del></p></td>
-<td><p><del>Fritzpatrick's Irish Pub</del></p></td>
-<td><p><del>Stammtisch / Netzwerkabend</del></p></td>
-<td><p><del>Allgemeine Diskussion zum Thema Security / Netzwerken</del></p></td>
+<td><p> 01 Februar 2022</p></td>
+<td><p>Fritzpatrick's Irish Pub</p></td>
+<td><p>Stammtisch / Netzwerkabend</p></td>
+<td><p>Allgemeine Diskussion zum Thema Security / Netzwerken</p></td>
 <td><p>Aufgrund von Krankheit entfallen</p></td>
 <td></td>
 <td></td>
