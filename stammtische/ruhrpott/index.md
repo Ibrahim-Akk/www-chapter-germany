@@ -31,22 +31,20 @@ vieles neues über security lernen und jede davon profitieren kann.
     
 <tbody>
 <tr class="odd">
-<td><p>Dezember</p></td>
-<td><p>Chaospott</p></td>
+<td><p>Dezember 2021</p></td>
+<td><p>Online Kickoff Meeting - Link TBA</p></td>
 <td><p>Themen Anounce</p></td>
 <td><ul>
 <li></li>
 <li></li>
-<li></li>
-<li></li>
 </ul></td>
 <td><p> </p></td>
-<td><p><a href="https://doodle.com/poll/prvqqncgvgx65ym9">https://doodle.com/poll/prvqqncgvgx65ym9</a></p></td>
-<td><p><a href="https://www.owasp.org/index.php/File:Owasp_wireshark.pdf">PDF</a></p></td>
+<td><p><a href="">Meetup-Doodle</a></p></td>
+<td><p><a href="">PDF</a></p></td>
 </tr>
     
 <tr class="even">
-<td><p><del>25.02.2019</del></p></td>
+<td><p><del> 01 Februar 2022</del></p></td>
 <td><p><del>Fritzpatrick's Irish Pub</del></p></td>
 <td><p><del>Stammtisch / Netzwerkabend</del></p></td>
 <td><p><del>Allgemeine Diskussion zum Thema Security / Netzwerken</del></p></td>
@@ -56,21 +54,63 @@ vieles neues über security lernen und jede davon profitieren kann.
 </tr>
     
 <tr class="odd">
-<td><p>Januar</p></td>
-<td><p>Chaospott</p></td>
+<td><p>01 April 2022</p></td>
+<td><p></p></td>
 <td><p></p></td>
 <td><ul>
-<li></li>
-<li></li>
 <li></li>
 <li></li>
 </ul>
 <p></p></td>
 <td><p></p></td>
-<td><p><a href="https://doodle.com/poll/tmz7r8pa33aptxak">https://doodle.com/poll/tmz7r8pa33aptxak</a></p></td>
-<td><p><a href="https://www.owasp.org/index.php/File:Analysing_Networks_with_NMAP.pdf">PDF</a> <a href="https://www.owasp.org/index.php/File:Analysing%20Networks%20with%20NMAP%20with%20notes.pptx">PPTX</a></p></td>
+<td><p><a href="">Meetup-Doodle</a></p></td>
+<td><p><a href="">PDF</a> 
+    <a href="">PPTX</a>
+</p></td>
+</tr>
+ 
+<tr class="even">
+<td><p>10 Juni 2022</p></td>
+<td><p>Location TBA</p></td>
+<td><p>Stammtisch / Netzwerkabend</p></td>
+<td><p>Allgemeine Diskussion zum Thema Security / Netzwerken</p></td>
+<td><p>-</p></td>
+<td><p><a href="">MeetUp - Doodle</a></p></td>
+<td><p>-</p></td>
 </tr>
     
+<tr class="odd">
+<td><div style="color:green">
+<p>22 August 2022</p>
+</div></td>
+<td><div style="color:green">
+<p>To be anounced</p>
+</div></td>
+<td><div style="color:green">
+<p>Thema TBD</p>
+</div></td>
+<td><div style="color:green">
+<p></p>
+<p>Die Themengebiete sind:</p>
+</div></td>
+<td><div style="color:green">
+<p>_bka_</p>
+</div></td>
+<td><div style="color:green">
+<p><a href="https://www.meetup.com/OWASP-Germany-Stammtisch-Ruhrpott/events/263581050/">https://www.meetup.com/OWASP-Germany-Stammtisch-Ruhrpott/events/263581050/</a></p>
+</div></td>
+<td><p><a href="https://www.owasp.org/images/f/ff/WindowsBreakout-Nov2019.pdf">PDF</a></p></td>
+</tr>
+    
+<tr class="even">
+<td><p>14 November 2022</p></td>
+<td><p>Location TBA</p></td>
+<td><p>Stammtisch / Netzwerkabend</p></td>
+<td><p>Allgemeine Diskussion zum Thema Security / Netzwerken</p></td>
+<td><p>-</p></td>
+<td><p><a href="">MeetUp - Doodle</a></p></td>
+<td><p>-</p></td>
+</tr>
 
 </tbody>
 </table>
