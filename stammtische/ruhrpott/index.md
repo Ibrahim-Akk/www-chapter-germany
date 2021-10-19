@@ -81,31 +81,6 @@ vieles neues über security lernen und jede davon profitieren kann.
 </tr>
     
 <tr class="odd">
-<td><p>27.05.2019 - 18:30</p></td>
-<td><p>Chaospott</p></td>
-<td><p>ManInTheMiddle von HTTP(S) und Binären Protokollen</p></td>
-<td><p><strong>Wichtig:</strong> Laptops mitbringen, es wird praktisch.</p>
-<ul>
-<li>Wie kann der Verkehr von binaeren Protokollen mitgeschnitten werden? (wireshark)</li>
-<li>Wie können Nachrichten fuer nicht HTTP Protokolle veraendert werden? (socat, netsed, python)</li>
-</ul>
-<p>Im Laufe des Workshops werden wir auch ein kleines selbst entwickeltes Protokoll nutzen und dieses analysieren. Dabei wird gezeigt wie einzelne Angriffe mit Python automatisiert werden können.</p></td>
-<td><p>Tim</p></td>
-<td><p><a href="https://doodle.com/poll/td5g6ebd8e95rp6h">https://doodle.com/poll/td5g6ebd8e95rp6h</a></p></td>
-<td><p><a href="https://github.com/OWASP-Ruhrpott/intercept-all-the-things">GitHub</a></p></td>
-</tr>
-    
-<tr class="even">
-<td><p>28.10.2019 - 18:30</p></td>
-<td><p>Fritzpatrick's Irish Pub</p></td>
-<td><p>Stammtisch / Netzwerkabend</p></td>
-<td><p>Allgemeine Diskussion zum Thema Security / Netzwerken</p></td>
-<td></td>
-<td><p><a href="https://www.meetup.com/OWASP-Germany-Stammtisch-Ruhrpott/events/263581061/">https://www.meetup.com/OWASP-Germany-Stammtisch-Ruhrpott/events/263581061/</a></p></td>
-<td></td>
-</tr>
-    
-<tr class="odd">
 <td><div style="color:green">
 <p>Januar</p>
 </div></td>
