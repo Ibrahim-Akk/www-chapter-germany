@@ -133,7 +133,7 @@ vieles neues über security lernen und jede davon profitieren kann.
 
 
 
-<a href="">Alte Stammtisch Programme</a>
+<a href="old-index.md">Alte Stammtisch Programme</a>
 
 
 ## Planung 2020
