@@ -13,7 +13,7 @@ Hallo zusammen,
 Nach ca. einem Jahr auszeit, haben wir Reza, Ammar und Ibrahim uns entschieden 
 den OWASP Ruhrpott Stammtisch zu re-aktivieren. Wir möchten im Ruhrgebiet eine 
 Security Community aufbauen und eine Brücke sein damit leute sich connecten und 
-vieles neues über security lernen und jede davon profitieren kann.
+vieles neues über security lernen und jeder davon profitieren kann.
 
 
 <table>
@@ -31,7 +31,7 @@ vieles neues über security lernen und jede davon profitieren kann.
     
 <tbody>
 <tr class="odd">
-<td><p>Dezember 2021</p></td>
+<td><p>16 Dezember 2021</p></td>
 <td><p>Online Kickoff Meeting - Link TBA</p></td>
 <td><p>Themen Anounce</p></td>
 <td><ul>
