@@ -20,8 +20,8 @@ vieles neues über security lernen und jeder davon profitieren kann.
 <thead>
 <tr class="header">
 <th><p>Termin</p>
-<th><p>Ort</p>
-<th><p>Titel</p></th>
+<p>Ort</p>
+<p>Titel</p></th>
 <th><p>Inhalt</p></th>
 <th><p>Vortragender</p></th>
 <th><p>Doodle / Meetup</p></th>
