@@ -19,8 +19,8 @@ vieles neues über security lernen und jeder davon profitieren kann.
 <table>
 <thead>
 <tr class="header">
-<th><p>Termin</p></th>
-<th><p>Ort</p></th>
+<th><p>Termin</p>
+<th><p>Ort</p>
 <th><p>Titel</p></th>
 <th><p>Inhalt</p></th>
 <th><p>Vortragender</p></th>
