@@ -31,10 +31,12 @@ vieles neues über security lernen und jeder davon profitieren kann.
     
 <tbody>
 <tr class="odd">
-<td> Termin:16 Dezember 2021</p></td>
+<td> 
+<p>Termin:16 Dezember 2021</p>
 <p>Ort: Online Kickoff Meeting - Link TBA</p>
 <p>Titel: Themen Anounce</p>
-<td><ul>
+<td>
+<ul>
 <li></li>
 <li></li>
 </ul></td>
