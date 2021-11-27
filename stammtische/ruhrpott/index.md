@@ -84,32 +84,22 @@ Brücke zwischen Industrie Branchen und der OWASP community etablieren.
 </tr>
     
 <tr class="odd">
-<td><div style="color:green">
-<p>22 August 2022</p>
-</div></td>
-<td><div style="color:green">
+<td><p>22 August 2022</p>
 <p>To be anounced</p>
-</div></td>
-<td><div style="color:green">
-<p>Thema TBD</p>
-</div></td>
-<td><div style="color:green">
-<p></p>
-<p>Die Themengebiete sind:</p>
-</div></td>
-<td><div style="color:green">
-<p>_bka_</p>
-</div></td>
-<td><div style="color:green">
+<p>Thema TBD</p> </td>
+<td><p></p>
+<p>Die Themengebiete sind:</p></td>
+<td><p>_bka_</p></td>
+<td>
 <p><a href="https://www.meetup.com/OWASP-Germany-Stammtisch-Ruhrpott/events/263581050/">https://www.meetup.com/OWASP-Germany-Stammtisch-Ruhrpott/events/263581050/</a></p>
-</div></td>
+</td>
 <td><p><a href="https://www.owasp.org/images/f/ff/WindowsBreakout-Nov2019.pdf">PDF</a></p></td>
 </tr>
     
 <tr class="even">
-<td><p>14 November 2022</p></td>
-<td><p>Location TBA</p></td>
-<td><p>Stammtisch / Netzwerkabend</p></td>
+<td><p>14 November 2022</p>
+<p>Location TBA</p>
+<p>Stammtisch / Netzwerkabend</p></td>
 <td><p>Allgemeine Diskussion zum Thema Security / Netzwerken</p></td>
 <td><p>-</p></td>
 <td><p><a href="">MeetUp - Doodle</a></p></td>
@@ -117,9 +107,9 @@ Brücke zwischen Industrie Branchen und der OWASP community etablieren.
 </tr>
     
 <tr class="odd">
-<td><p>01 April 2022</p></td>
-<td><p></p></td>
-<td><p></p></td>
+<td><p>01 April 2022</p>
+<p></p>
+<p></p></td>
 <td><ul>
 <li></li>
 <li></li>
