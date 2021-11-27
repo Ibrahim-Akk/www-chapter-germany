@@ -22,11 +22,11 @@ Brücke zwischen Industrie Branchen und der OWASP community etablieren.
 <thead>
 <tr class="header">
 <th><p>Termin</p>
-<p>Ort</p>
-<p>Titel</p></th>
-<th><p>Inhalt</p></th>
-<th><p>Vortragender</p></th>
-<th><p>Doodle / Meetup</p></th>
+    <p>Ort</p>
+    <p>Titel</p>
+    <p>Vortragender</p></th>
+<th><p>Inhalt</p>
+<th><p>Doodle / Meetup</p>
 <th><p>Slides</p></th>
 </tr>
 </thead>
@@ -34,66 +34,70 @@ Brücke zwischen Industrie Branchen und der OWASP community etablieren.
 <tbody>
 <tr class="odd">
 <td> 
-<p>Termin:16 Dezember 2021</p>
-<p>Ort: Online Kickoff Meeting - Link TBA</p>
-<p>Titel: Themen Anounce</p>
-<td>
-<ul>
-<li></li>
-<li></li>
-</ul></td>
-<td><p> </p></td>
-<td><p><a href="">Meetup-Doodle</a></p></td>
-<td><p><a href="">PDF</a></p></td>
+    <p>Termin:16 Dezember 2021</p>
+    <p>Ort: Online Kickoff Meeting - Link TBA</p>
+    <p>Titel: Themen Anounce</p>
+    <ul>
+    <li></li>
+    <li></li>
+    </ul>
+</td>
+<td><p> </p>
+    <p><a href="">Meetup-Doodle</a></p>
+    <p><a href="">PDF</a></p></td>
 </tr>
     
 <tr class="even">
 <td><p> 01 Februar 2022</p>
-<p>Fritzpatrick's Irish Pub</p>
-<p>Stammtisch / Netzwerkabend</p></td>
-<td><p>Allgemeine Diskussion zum Thema Security / Netzwerken</p></td>
-<td><p>Aufgrund von Krankheit entfallen</p></td>
-<td></td>
-<td></td>
+    <p>Fritzpatrick's Irish Pub</p>
+    <p>Stammtisch / Netzwerkabend</p>
+ </td>
+<td><p>Allgemeine Diskussion zum Thema Security / Netzwerken</p>
+    <p>Aufgrund von Krankheit entfallen</p>
+    <p></p>
+</td>
 </tr>
     
 <tr class="odd">
 <td><p>01 April 2022</p>
-<p>ee</p>
-<p>ww</p></td>
+    <p>ee</p>
+    <p>ww</p></td>
 <td><ul>
-<li></li>
-<li></li>
-</ul>
-<p></p></td>
-<td><p></p></td>
-<td><p><a href="">Meetup-Doodle</a></p></td>
-<td><p><a href="">PDF</a> 
+    <li></li>
+    <li></li>
+    </ul>
+    <p></p>
+</td>
+<td><p></p>
+    <p><a href="">Meetup-Doodle</a></p>
+    <p><a href="">PDF</a> 
     <a href="">PPTX</a>
-</p></td>
+    </p>
+</td>
 </tr>
  
 <tr class="even">
 <td><p>10 Juni 2022</p>
-<p>Location TBA</p>
-<p>Stammtisch / Netzwerkabend</p></td>
-<td><p>Allgemeine Diskussion zum Thema Security / Netzwerken</p></td>
-<td><p>-</p></td>
-<td><p><a href="">MeetUp - Doodle</a></p></td>
-<td><p>-</p></td>
+    <p>Location TBA</p>
+    <p>Stammtisch / Netzwerkabend</p></td>
+<td><p>Allgemeine Diskussion zum Thema Security / Netzwerken</p>
+    <p>-</p>
+    <p><a href="">MeetUp - Doodle</a></p>
+    <p>-</p>
+</td>
 </tr>
     
 <tr class="odd">
 <td><p>22 August 2022</p>
-<p>To be anounced</p>
-<p>Thema TBD</p> </td>
-<td><p></p>
-<p>Die Themengebiete sind:</p></td>
-<td><p>_bka_</p></td>
-<td>
-<p><a href="https://www.meetup.com/OWASP-Germany-Stammtisch-Ruhrpott/events/263581050/">https://www.meetup.com/OWASP-Germany-Stammtisch-Ruhrpott/events/263581050/</a></p>
+    <p>To be anounced</p>
+    <p>Thema TBD</p> 
 </td>
-<td><p><a href="https://www.owasp.org/images/f/ff/WindowsBreakout-Nov2019.pdf">PDF</a></p></td>
+<td><p></p>
+    <p>Die Themengebiete sind:</p></td>
+    <p>_bka_</p></td>
+    <p><a href="https://www.meetup.com/OWASP-Germany-Stammtisch-Ruhrpott/events/263581050/">https://www.meetup.com/OWASP-Germany-Stammtisch-Ruhrpott/events/263581050/</a></p>
+    <p><a href="https://www.owasp.org/images/f/ff/WindowsBreakout-Nov2019.pdf">PDF</a></p>
+</td>
 </tr>
     
 <tr class="even">
@@ -101,25 +105,29 @@ Brücke zwischen Industrie Branchen und der OWASP community etablieren.
 <p>Location TBA</p>
 <p>Stammtisch / Netzwerkabend</p></td>
 <td><p>Allgemeine Diskussion zum Thema Security / Netzwerken</p></td>
-<td><p>-</p></td>
-<td><p><a href="">MeetUp - Doodle</a></p></td>
-<td><p>-</p></td>
+    <p>-</p>
+    <p><a href="">MeetUp - Doodle</a></p>
+    <p>-</p>
+</td>
 </tr>
     
 <tr class="odd">
 <td><p>01 April 2022</p>
-<p></p>
-<p></p></td>
+    <p></p>
+    <p></p>
+</td>
 <td><ul>
-<li></li>
-<li></li>
-</ul>
-<p></p></td>
-<td><p></p></td>
-<td><p><a href="">Meetup-Doodle</a></p></td>
-<td><p><a href="">PDF</a> 
+    <li></li>
+    <li></li>
+    </ul>
+    <p></p>
+</td>
+<td><p></p>
+    <p><a href="">Meetup-Doodle</a></p></td>
+    <p><a href="">PDF</a> 
     <a href="">PPTX</a>
-</p></td>
+    </p>
+</td>
 </tr>
 
 </tbody>
