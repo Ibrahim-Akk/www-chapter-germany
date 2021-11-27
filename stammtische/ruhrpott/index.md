@@ -11,9 +11,11 @@ title: OWASP Germany > Stammtische > Ruhrpott
 Hallo zusammen,
 
 Nach ca. einem Jahr auszeit, haben wir Reza, Ammar und Ibrahim uns entschieden 
-den OWASP Ruhrpott Stammtisch zu re-aktivieren. Wir möchten im Ruhrgebiet eine 
-Security Community aufbauen und eine Brücke sein damit leute sich connecten und 
-vieles neues über security lernen und jeder davon profitieren kann.
+den OWASP Ruhrpott Stammtisch zu re-aktivieren. Unser Ziel ist es im Ruhrgebiet eine 
+Security Community aufzubauen. Das erreichen wir zusammen, indem wir im Stammtisch 
+Ruhrpott uns in Security relevanten Themen austauschen. Der Stammtisch Ruhrpott soll sich als 
+Brücke zwischen Industrie Branchen und der OWASP community etablieren.
+
 
 
 <table>
@@ -46,9 +48,9 @@ vieles neues über security lernen und jeder davon profitieren kann.
 </tr>
     
 <tr class="even">
-<td><p> 01 Februar 2022</p></td>
-<td><p>Fritzpatrick's Irish Pub</p></td>
-<td><p>Stammtisch / Netzwerkabend</p></td>
+<td><p> 01 Februar 2022</p>
+<p>Fritzpatrick's Irish Pub</p>
+<p>Stammtisch / Netzwerkabend</p></td>
 <td><p>Allgemeine Diskussion zum Thema Security / Netzwerken</p></td>
 <td><p>Aufgrund von Krankheit entfallen</p></td>
 <td></td>
@@ -56,9 +58,9 @@ vieles neues über security lernen und jeder davon profitieren kann.
 </tr>
     
 <tr class="odd">
-<td><p>01 April 2022</p></td>
-<td><p></p></td>
-<td><p></p></td>
+<td><p>01 April 2022</p>
+<p>ee</p>
+<p>ww</p></td>
 <td><ul>
 <li></li>
 <li></li>
@@ -72,9 +74,9 @@ vieles neues über security lernen und jeder davon profitieren kann.
 </tr>
  
 <tr class="even">
-<td><p>10 Juni 2022</p></td>
-<td><p>Location TBA</p></td>
-<td><p>Stammtisch / Netzwerkabend</p></td>
+<td><p>10 Juni 2022</p>
+<p>Location TBA</p>
+<p>Stammtisch / Netzwerkabend</p></td>
 <td><p>Allgemeine Diskussion zum Thema Security / Netzwerken</p></td>
 <td><p>-</p></td>
 <td><p><a href="">MeetUp - Doodle</a></p></td>
