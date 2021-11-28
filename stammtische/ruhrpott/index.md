@@ -123,7 +123,7 @@ Brücke zwischen Industrie Branchen und der OWASP community etablieren.
     <p></p>
 </td>
 <td><p></p>
-    <p><a href="">Meetup-Doodle</a></p></td>
+    <p><a href="">Meetup-Doodle</a></p>
     <p><a href="">PDF</a> 
     <a href="">PPTX</a>
     </p>
