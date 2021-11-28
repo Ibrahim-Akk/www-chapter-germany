@@ -49,7 +49,7 @@ Brücke zwischen Industrie Branchen und der OWASP community etablieren.
         <li>Ammar Adas</li>
     </ul>
 </td>
-<td><p> </p>
+<td><p>Establishing Application Security (#appsec/ #infrastructure) </p>
     <p><a href="">Meetup-Doodle</a></p>
     <p><a href="">PDF</a></p></td>
 </tr>
