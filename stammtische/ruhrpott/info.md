@@ -9,9 +9,10 @@
 ### Kontakt
 
 * [MeetUp](https://www.meetup.com/OWASP-Germany-Stammtisch-Ruhrpott)
-* [Google Group](https://groups.google.com/a/owasp.org/group/germany-chapter/) ([📧](mailto:germany-chapter@owasp.org))
-* [Twitter](https://twitter.com/owaspruhrpott)
-* [YouTube](https://www.youtube.com/channel/UCO7VtjaFHkfsDNZEFg9OssQ)
 * [Slack]()
 * [Linkedin]()
+* [Twitter](https://twitter.com/owaspruhrpott)
 * [Instagram]()
+* [YouTube](https://www.youtube.com/channel/UCO7VtjaFHkfsDNZEFg9OssQ)
+
+
