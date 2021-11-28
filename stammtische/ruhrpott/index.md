@@ -48,7 +48,6 @@ Brücke zwischen Industrie Branchen und der OWASP community etablieren.
         <li>Reza Asif</li>
         <li>Ammar Adas</li>
     </ul>
-    
 </td>
 <td><p> </p>
     <p><a href="">Meetup-Doodle</a></p>
@@ -56,25 +55,36 @@ Brücke zwischen Industrie Branchen und der OWASP community etablieren.
 </tr>
     
 <tr class="even">
-<td><p> 01 Februar 2022</p>
-    <p>Fritzpatrick's Irish Pub</p>
-    <p>Stammtisch / Netzwerkabend</p>
- </td>
-<td><p>Allgemeine Diskussion zum Thema Security / Netzwerken</p>
-    <p>Aufgrund von Krankheit entfallen</p>
+<td> 
+    <p>Termin / Ort:</p>
+    <ul>
+        <li>01 Februar 2022</li>
+        <li><p>TBA</p></li>
+    </ul>
+    <b><p>Titel: TBA</p></b>
+    <p>Vortragende:</p>
+    <ul>
+        <li>TBA</li>
+    </ul>
+</td>
+<td><p>TBA</p>
+    <p></p>
     <p></p>
 </td>
 </tr>
     
 <tr class="odd">
-<td><p>01 April 2022</p>
-    <p>ee</p>
-    <p>ww</p>
+<td> 
+    <p>Termin / Ort:</p>
     <ul>
-    <li></li>
-    <li></li>
+        <li>01 April 2022</li>
+        <li><p>TBA</p></li>
     </ul>
-    <p></p>
+    <b><p>Titel: TBA</p></b>
+    <p>Vortragende:</p>
+    <ul>
+        <li>TBA</li>
+    </ul>
 </td>
 <td><p></p>
     <p><a href="">Meetup-Doodle</a></p>
@@ -85,57 +95,87 @@ Brücke zwischen Industrie Branchen und der OWASP community etablieren.
 </tr>
  
 <tr class="even">
-<td><p>10 Juni 2022</p>
-    <p>Location TBA</p>
-    <p>Stammtisch / Netzwerkabend</p>
-</td>
-<td><p>Allgemeine Diskussion zum Thema Security / Netzwerken</p>
-    <p>-</p>
-    <p><a href="">MeetUp - Doodle</a></p>
-    <p>-</p>
-</td>
-</tr>
-    
-<tr class="odd">
-<td><p>22 August 2022</p>
-    <p>To be anounced</p>
-    <p>Thema TBD</p> 
+<td> 
+    <p>Termin / Ort:</p>
+    <ul>
+        <li>10 Juni 2022</li>
+        <li><p>TBA</p></li>
+    </ul>
+    <b><p>Titel: TBA</p></b>
+    <p>Vortragende:</p>
+    <ul>
+        <li>TBA</li>
+    </ul>
 </td>
 <td><p></p>
-    <p>Die Themengebiete sind:</p>
-    <p>_bka_</p>
-    <p><a href="https://www.meetup.com/OWASP-Germany-Stammtisch-Ruhrpott/events/263581050/">https://www.meetup.com/OWASP-Germany-Stammtisch-Ruhrpott/events/263581050/</a></p>
-    <p><a href="https://www.owasp.org/images/f/ff/WindowsBreakout-Nov2019.pdf">PDF</a></p>
-</td>
-</tr>
-    
-<tr class="even">
-<td><p>14 November 2022</p>
-<p>Location TBA</p>
-<p>Stammtisch / Netzwerkabend</p></td>
-<td><p>Allgemeine Diskussion zum Thema Security / Netzwerken</p>
-    <p>-</p>
-    <p><a href="">MeetUp - Doodle</a></p>
-    <p>-</p>
-</td>
-</tr>
-    
-<tr class="odd">
-<td><p>01 April 2022</p>
-    <p></p>
-    <p></p>
-</td>
-<td><ul>
-    <li></li>
-    <li></li>
-    </ul>
-    <p></p>
-    <p></p>
     <p><a href="">Meetup-Doodle</a></p>
     <p><a href="">PDF</a> 
     <a href="">PPTX</a>
     </p>
 </td>
+</tr>
+    
+<tr class="odd">
+<td> 
+    <p>Termin / Ort:</p>
+    <ul>
+        <li>22 August 2022</li>
+        <li><p>TBA</p></li>
+    </ul>
+    <b><p>Titel: TBA</p></b>
+    <p>Vortragende:</p>
+    <ul>
+        <li>TBA</li>
+    </ul>
+</td>
+<td><p></p>
+    <p><a href="">Meetup-Doodle</a></p>
+    <p><a href="">PDF</a> 
+    <a href="">PPTX</a>
+    </p>
+</td>
+</tr>
+    
+<tr class="even">
+<td> 
+    <p>Termin / Ort:</p>
+    <ul>
+        <li>14 November 2022</li>
+        <li><p>TBA</p></li>
+    </ul>
+    <b><p>Titel: TBA</p></b>
+    <p>Vortragende:</p>
+    <ul>
+        <li>TBA</li>
+    </ul>
+</td>
+<td><p></p>
+    <p><a href="">Meetup-Doodle</a></p>
+    <p><a href="">PDF</a> 
+    <a href="">PPTX</a>
+    </p>
+</td>  
+</tr>
+    
+<tr class="odd">
+<td> 
+    <p>Termin / Ort:</p>
+    <ul>
+        <li>14 Dezember 2022</li>
+        <li><p>TBA</p></li>
+    </ul>
+    <b><p>Titel: TBA-Closing</p></b>
+    <p>Vortragende:</p>
+    <ul>
+        <li>TBA</li>
+    </ul>
+</td>
+<td><p></p>
+    <p><a href="">Meetup-Doodle</a></p>
+    <p><a href="">PDF</a> 
+    <a href="">PPTX</a>
+    </p>
+</td>  
 </tr>
 
 </tbody>
