@@ -181,6 +181,20 @@ Brücke zwischen Industrie Branchen und der OWASP community etablieren.
 </tbody>
 </table>
 
+### Ablauf
+
+Die grobe Richtlinie für den Ablauf lautet:
+
+Start: 18:30
+
+Vortrag/Workshop: ca. 1h - 1.5h
+
+Diskussion: Nach Bedarf sind wir anschließend zur Diskussion zu Thema
+IT-Sicherheit noch da.
+
+<b style="color:red">Hinweis:</b> bei einer großen Anmeldezahl versuchen
+wir, einen anderen Veranstaltungsort zu finden. Dieser wird rechtzeitig im
+Wiki bekannt gegeben.
 
 
 <a href="old-index.md">Alte Stammtisch Programme</a>
@@ -188,8 +202,8 @@ Brücke zwischen Industrie Branchen und der OWASP community etablieren.
 
 ## Vergangene Treffen
 
-1.  [\#1 Ruhrpott Stammtisch 26.02.2015 (Stammtisch
-    Besprechung/Definition)]()
+1.  \#1 Ruhrpott Stammtisch 26.02.2015 (Stammtisch
+    Besprechung/Definition)()
 2.  [\#2 Ruhrpott Stammtisch 24.03.2015 (Stammtisch HandsOn Workshop
     WebApp mit
     Christian)]()
