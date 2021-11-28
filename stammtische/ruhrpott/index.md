@@ -203,25 +203,25 @@ Wiki bekannt gegeben.
 ## Vergangene Treffen
 
 1.  \#1 Ruhrpott Stammtisch 26.02.2015 (Stammtisch
-    Besprechung/Definition)()
-2.  [\#2 Ruhrpott Stammtisch 24.03.2015 (Stammtisch HandsOn Workshop
+    Besprechung/Definition)
+2.  \#2 Ruhrpott Stammtisch 24.03.2015 (Stammtisch HandsOn Workshop
     WebApp mit
-    Christian)]()
-3.  [\#3 Ruhrpott Stammtisch 28.04.2015 ("Shadow Daemon" - WAF Talk von
+    Christian)
+3.  \#3 Ruhrpott Stammtisch 28.04.2015 ("Shadow Daemon" - WAF Talk von
     Hendrik
-    Buchwald)]()
-4.  [\#4 Ruhrpott Stammtisch 26.05.2015 ("RFID/NFC in a Webapp-World" -
+    Buchwald)
+4.  [#4 Ruhrpott Stammtisch 26.05.2015 ("RFID/NFC in a Webapp-World" -
     Christian
-    Becker)]()
-5.  [\#5 Ruhrpott Stammtisch 30.06.2015 30.06.2015 (PHP-Encoder - Dario
-    Weißer)](https://www.owasp.org/index.php/OWASP_German_Chapter_Stammtisch_Initiative/Ruhrpott/20150630)
-6.  [\#6 Ruhrpott Stammtisch 28.07.2015 (CTF
-    Challenges)](https://www.owasp.org/index.php/OWASP_German_Chapter_Stammtisch_Initiative/Ruhrpott/20152807)
-7.  [\#7 Ruhrpott Stammtisch 25.08.2015 (Stammtisch im
-    GrugaPark)](https://www.owasp.org/index.php/OWASP_German_Chapter_Stammtisch_Initiative/Ruhrpott/20150825)
-8.  [\#8 Ruhrpott Stammtisch 29.09.2015 ("EsPReSSO" - Single Sign On
+    Becker)
+5.  \#5 Ruhrpott Stammtisch 30.06.2015 30.06.2015 (PHP-Encoder - Dario
+    Weißer)
+6.  \#6 Ruhrpott Stammtisch 28.07.2015 (CTF
+    Challenges)
+7.  \#7 Ruhrpott Stammtisch 25.08.2015 (Stammtisch im
+    GrugaPark)
+8.  \#8 Ruhrpott Stammtisch 29.09.2015 ("EsPReSSO" - Single Sign On
     Vortrag von Tim Guenther
-    )](https://www.owasp.org/index.php/OWASP_German_Chapter_Stammtisch_Initiative/Ruhrpott/20150929)
+    )
 9.  [\#9 Ruhrpott Stammtisch 24.11.2015 ("Analysis of encrypted
     Databases with CryptDB" - von Michael
     Skiba)](https://www.owasp.org/index.php/OWASP_German_Chapter_Stammtisch_Initiative/Ruhrpott/20151124)
