@@ -41,7 +41,7 @@ Brücke zwischen Industrie Branchen und der OWASP community etablieren.
         <li>16.12.2021</li>
         <li><p>Online - Link TBA</p></li>
     </ul>
-    <b><p>Titel: Kickoff Meeting</p></b>
+    <b><p>Titel: Kickoff Meeting - OWASP Ruhrpott Roundtable</p></b>
     <p>Vortragende:</p>
     <ul>
         <li>Ibrahim Akkulak</li>
