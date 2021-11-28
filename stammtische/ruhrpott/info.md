@@ -10,9 +10,9 @@
 
 * [MeetUp](https://www.meetup.com/OWASP-Germany-Stammtisch-Ruhrpott)
 * [Slack]()
-* [Linkedin]()
+* [Linkedin](https://www.linkedin.com/company/owasp-ruhrpott)
 * [Twitter](https://twitter.com/owaspruhrpott)
-* [Instagram]()
+* [Instagram](https://www.instagram.com/owaspruhrpott/)
 * [YouTube](https://www.youtube.com/channel/UCO7VtjaFHkfsDNZEFg9OssQ)
 
 
