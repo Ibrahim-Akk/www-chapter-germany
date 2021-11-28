@@ -62,8 +62,8 @@ Brücke zwischen Industrie Branchen und der OWASP community etablieren.
 <tr class="odd">
 <td><p>01 April 2022</p>
     <p>ee</p>
-    <p>ww</p></td>
-<td><ul>
+    <p>ww</p>
+    <ul>
     <li></li>
     <li></li>
     </ul>
@@ -95,7 +95,7 @@ Brücke zwischen Industrie Branchen und der OWASP community etablieren.
     <p>Thema TBD</p> 
 </td>
 <td><p></p>
-    <p>Die Themengebiete sind:</p></td>
+    <p>Die Themengebiete sind:</p>
     <p>_bka_</p>
     <p><a href="https://www.meetup.com/OWASP-Germany-Stammtisch-Ruhrpott/events/263581050/">https://www.meetup.com/OWASP-Germany-Stammtisch-Ruhrpott/events/263581050/</a></p>
     <p><a href="https://www.owasp.org/images/f/ff/WindowsBreakout-Nov2019.pdf">PDF</a></p>
