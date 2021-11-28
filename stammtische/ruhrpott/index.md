@@ -49,7 +49,15 @@ Brücke zwischen Industrie Branchen und der OWASP community etablieren.
         <li>Ammar Adas</li>
     </ul>
 </td>
-<td><p>Establishing Application Security (#appsec/ #infrastructure) </p>
+<td>
+    <ol>
+        <li>Establishing Application Security (#appsec/ #infrastructure)</li>
+        <li>Identity Aware Proxy (#Identity / #offsec)</li>
+        <li>Pentesting Approach in Cloud (#offsec)</li>
+        <li>Security Risk Assessments and Workflow (#SecureByDesign/#DevSecOps/#PrivacyByDesign)</li>
+        <li>Threats and challenges on highly scalable architecture (#cloudnative / #containers)</li>
+        <li>Pentest Reporting & Best-practices (#offsec)</li>
+    </ol>
     <p><a href="">Meetup-Doodle</a></p>
     <p><a href="">PDF</a></p></td>
 </tr>
