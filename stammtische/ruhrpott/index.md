@@ -36,10 +36,17 @@ Brücke zwischen Industrie Branchen und der OWASP community etablieren.
 <td> 
     <p>Termin / Ort:</p>
     <ul>
-    <li><p>Online - Link TBA</p></li>
-    <li><p>Titel: Kickoff Meeting</p></li>
+        <li>16.12.2021</li>
+        <li><p>Online - Link TBA</p></li>
     </ul>
-    <p>Vortragende: Ibrahim, Reza, Ammar</p>
+    <p>Titel: Kickoff Meeting</p>
+    <p>Vortragende:</p>
+    <ul>
+        <li>Ibrahim Akkulak</li>
+        <li>Reza Asif</li>
+        <li>Ammar Adas</li>
+    </ul>
+    
 </td>
 <td><p> </p>
     <p><a href="">Meetup-Doodle</a></p>
