@@ -21,10 +21,12 @@ Brücke zwischen Industrie Branchen und der OWASP community etablieren.
 <table>
 <thead>
 <tr class="header">
-<th><p>Termin / Ort</p>
+<th>
+    <p>Termin / Ort</p>
     <p>Titel</p>
     <p>Vortragender</p></th>
-<th><p>Inhalt</p>
+<th>
+    <p>Inhalt</p>
     <p>Doodle / Meetup</p>
     <p>Slides</p>
 </th>
@@ -39,7 +41,7 @@ Brücke zwischen Industrie Branchen und der OWASP community etablieren.
         <li>16.12.2021</li>
         <li><p>Online - Link TBA</p></li>
     </ul>
-    <p>Titel: Kickoff Meeting</p>
+    <b><p>Titel: Kickoff Meeting</p></b>
     <p>Vortragende:</p>
     <ul>
         <li>Ibrahim Akkulak</li>
