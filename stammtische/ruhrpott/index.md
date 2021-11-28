@@ -50,6 +50,7 @@ Brücke zwischen Industrie Branchen und der OWASP community etablieren.
     </ul>
 </td>
 <td>
+    <b>Inhalt</b>
     <ol>
         <li>Establishing Application Security (#appsec/ #infrastructure)</li>
         <li>Identity Aware Proxy (#Identity / #offsec)</li>
